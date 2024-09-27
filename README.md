@@ -19,7 +19,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [https://github.com/tttam0113/fm-social-links-profile.git](https://github.com/tttam0113/fm-social-links-profile.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://fm-social-links-profile-rho.vercel.app/](https://fm-social-links-profile-rho.vercel.app/)
 
 ## My process
 

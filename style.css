@@ -35,7 +35,7 @@ body {
   border-radius: 12px;
   background-color: var(--color-grey-800);
   gap: 24px;
-  max-width: 328px;
+  min-width: 328px;
 }
 
 .profile__image {
@@ -50,6 +50,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 8px;
+  /* margin: 8px 0px; */
 }
 
 .profile__name {
@@ -66,7 +67,7 @@ body {
 .profile__bio {
   font-size: 12px;
   font-weight: 500;
-  margin-top: 8px;
+  /* margin-top: 8px; */
 }
 
 .profile__links {
@@ -102,16 +103,19 @@ body {
   color: inherit;
   display: block;
   padding: 12px;
+  height: 48px;
+  line-height: 24px;
 }
 
 @media (min-width: 640px) {
   .profile {
-    max-width: 384px;
+    min-width: 384px;
+    padding: 40px;
   }
 
   .profile__location,
-  .profile_bio,
-  .profile__link {
+  .profile__link,
+  .profile__bio {
     font-size: 14px;
   }
 
