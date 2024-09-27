@@ -50,7 +50,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  margin: 8px 0px;
+  margin: 6px 0px;
 }
 
 .profile__name {
@@ -102,7 +102,7 @@ body {
   color: inherit;
   display: block;
   padding: 12px;
-  height: 45px;
+  height: 46px;
   line-height: 24px;
 }
 
